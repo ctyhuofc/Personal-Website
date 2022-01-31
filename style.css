@@ -27,7 +27,8 @@ border-radius: 0;
 }
 
 body{
-    background-color:black;
+    color: midnightblue;
+    background-image: linear-gradient(midnightblue, black, midnightblue)
 }
 
 #info{
